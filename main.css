@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  width: 400px;
+  color: white;
+}
+
+.num {
+  background-color: #d8d9db;
+  width: 100%;
+}
+
+.operation {
+  background-color: orange;
+}
+
+.container {
+  display: flex;
+}
